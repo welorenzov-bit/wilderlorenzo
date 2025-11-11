@@ -1,2 +1,0 @@
-# wilderlorenzo
-Desarrollador web Junior
